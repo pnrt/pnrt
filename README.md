@@ -1,4 +1,6 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&abbreviated=true) ![Repos](https://img.shields.io/badge/Repositories-25-blue?style=flat&logo=github)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&abbreviated=true) ![Repos](https://img.shields.io/badge/Repositories-25-blue?style=flat&logo=github) ![Custom](https://img.shields.io/badge/_-Active_👉-8A2BE2?style=flat)
+ ![Custom](https://img.shields.io/badge/Android-3-brightgreen?style=flat&logo=android) ![Custom](https://img.shields.io/badge/Web-5-blue?style=flat&logo=react) 
+
 
 
 # 🚀 Welcome to My GitHub Profile!

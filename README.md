@@ -2,6 +2,7 @@
 
 Hello! I'm **Pankaj Kumar Rout** 👋, a passionate developer, innovator, and tech enthusiast.
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&abbreviated=true)
 ## 💻 About Me
 
 I'm a full-stack developer with a keen interest in building impactful apps for both **web** 🌐 and **mobile** 📱 platforms. Currently, I focus on **React** and **Android** development, and I love exploring new technologies like **AI**, **Java Spring Boot**, and **Microservices**. 

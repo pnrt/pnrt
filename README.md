@@ -1,4 +1,6 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&abbreviated=true)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&abbreviated=true) ![Repos](https://img.shields.io/badge/Repositories-25-blue?style=flat&logo=github)
+
+
 # 🚀 Welcome to My GitHub Profile!
 
 Hello! I'm **Pankaj Kumar Rout** 👋, a passionate developer, innovator, and tech enthusiast.
@@ -9,8 +11,8 @@ I'm a full-stack developer with a keen interest in building impactful apps for b
 
 ## 🚀 Projects
 
-- **[Challlan Recorder]**: Store delevery challans. ![Custom](https://img.shields.io/badge/v-Custom-red?style=flat&logo=android)
-- **[Tenant Management]**: A mobile app that records and manages tenents.
+- **Challlan Recorder**: Store delevery challans. ![Custom](https://img.shields.io/badge/.-v1.8-brightgreen?style=flat&logo=android)
+- **Tenant Management**: Records and manages tenents. ![Custom](https://img.shields.io/badge/.-v2.1-brightgreen?style=flat&logo=android)
 
 Feel free to explore my repositories for more of my projects!
 

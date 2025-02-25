@@ -1,9 +1,9 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&abbreviated=true) ![Repos](https://img.shields.io/badge/Repositories-25-blue?style=flat&logo=github) ![Custom](https://img.shields.io/badge/_-Active_👉-8A2BE2?style=flat)
  ![Custom](https://img.shields.io/badge/Android-3-brightgreen?style=flat&logo=android) ![Custom](https://img.shields.io/badge/Web-5-blue?style=flat&logo=react) 
 
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7B93E&width=435&lines=Hii+👋)
 
-
-# 🚀 Welcome to My GitHub Profile!
+#  🚀 Welcome to My GitHub Profile!
 
 Hello! I'm **Pankaj Kumar Rout** 👋, a passionate developer, innovator, and tech enthusiast.
 
@@ -35,7 +35,14 @@ Feel free to explore my repositories for more of my projects!
 
 Let's build something amazing together! 💡
 
-<!---
-pnrtx/pnrtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pankaj-kumar-rout)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/_pnrt)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnrt&layout=compact&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=pnrt&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pnrt&theme=react-dark)
+
+

@@ -9,7 +9,7 @@ I'm a full-stack developer with a keen interest in building impactful apps for b
 
 ## 🚀 Projects
 
-- **[Challlan Recorder]**: An android app to store delevery challans. 
+- **[Challlan Recorder]**: Store delevery challans. ![Custom](https://img.shields.io/badge/v-Custom-red?style=flat&logo=android)
 - **[Tenant Management]**: A mobile app that records and manages tenents.
 
 Feel free to explore my repositories for more of my projects!

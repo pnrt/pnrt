@@ -32,7 +32,6 @@ Feel free to explore my repositories for more of my projects!
 
 - 📧 Email: [pankaj.enggr@gmail.com](mailto:pankaj.enggr@gmail.com)
 - 🌐 Website: [👆click](https://pnrt.github.io/folio/)
-- 🐦 Twitter: [@_pnrt](https://x.com/_pnrt)
 
 Let's build something amazing together! 💡
 

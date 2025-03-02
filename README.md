@@ -48,4 +48,4 @@ Let's build something amazing together! 💡
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pnrt&theme=react-dark)
 
-
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=pnrt)](https://github.com/LordDashMe/github-contribution-stats/)

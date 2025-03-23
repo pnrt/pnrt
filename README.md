@@ -21,7 +21,7 @@ Feel free to explore my repositories for more of my projects!
 
 ## 📝 Blogs & Tutorials
 
-- 🌍 **My Blog**: Sharing knowledge on tech topics. [Visit here](https://your-blog-link.com)
+- 🌍 **My Blog**: Sharing knowledge on tech topics. [Visit here](https://pnrt.github.io/port/work.html)
 - 🎥 **YouTube**: Check out my tutorials on Android development. [Watch now](https://youtube-link.com)
 <!--
 ## 📈 GitHub Stats

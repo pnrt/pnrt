@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&) ![Repos](https://img.shields.io/badge/Repositories-34-blue?style=flat&logo=github) ![Custom](https://img.shields.io/badge/_-Active_👉-8A2BE2?style=flat)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&) ![Repos](https://img.shields.io/badge/Repositories-40-blue?style=flat&logo=github) ![Custom](https://img.shields.io/badge/_-Active_👉-8A2BE2?style=flat)
  ![Custom](https://img.shields.io/badge/Android-3-brightgreen?style=flat&logo=android) ![Custom](https://img.shields.io/badge/Web-5-blue?style=flat&logo=react) 
 
 ![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3498db&width=435&lines=Hii+👋;Dream.+Believe.+Create.+Achieve.)

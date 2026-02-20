@@ -1,52 +1,58 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=pnrt&color=brightgreen&) ![Repos](https://img.shields.io/badge/Repositories-69+-blue?style=flat&logo=github) ![Custom](https://img.shields.io/badge/_-Active_👉-8A2BE2?style=flat)
- ![Custom](https://img.shields.io/badge/Android-10+-brightgreen?style=flat&logo=android) ![Custom](https://img.shields.io/badge/Web-5-blue?style=flat&logo=react) 
+# 👋 Hi, I'm Pankaj Kumar Rout
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3498db&width=435&lines=Hii+👋;Dream.+Believe.+Create.+Achieve.)
+🚀 Software Engineer | Embedded Systems | Android Developer | C/C++ | Kotlin | STM32 | ESP32 | RP2040  
 
-#  🚀 Welcome to My GitHub Profile!
+I build real-world software and hardware systems including Android apps, embedded firmware, and Qt desktop applications.  
+I have published production apps on Google Play and developed IoT and automation projects.
 
-Hello! I'm **Pankaj Kumar Rout** 👋, a passionate developer, innovator, and tech enthusiast.
+---
 
-## 💻 About Me
+## 🔧 Tech Stack
 
-I'm a full-stack developer with a keen interest in building impactful apps for both **web** 🌐 and **mobile** 📱 platforms. Currently, I focus on **React** and **Android** development, and I love exploring new technologies like **AI**, **Java Spring Boot**, and **Microservices**. 
+**Languages:** C, C++, Kotlin, Java, Python, SQL  
+**Embedded:** STM32, ESP32, RP2040, UART, SPI, I2C, PWM, ADC, MQTT  
+**Mobile:** Android, Jetpack Compose, Room, Firebase  
+**Desktop:** Qt C++  
+**Backend:** Spring Boot, REST APIs, PostgreSQL  
+**Tools:** Git, Linux, CI/CD, Docker (basic)
 
-## 🚀 Projects
+---
 
-- **DocuSphere**: Store delevery challans. ![Custom](https://img.shields.io/badge/.-v1.8-brightgreen?style=flat&logo=android)
-- **Tenant Management App**: Records and manages tenents. ![Custom](https://img.shields.io/badge/.-v2.2-brightgreen?style=flat&logo=android)
-- **White Sand**: Manage you orders easy. ![Custom](https://img.shields.io/badge/.-v1.0-brightgreen?style=flat&logo=android)
-  
-Feel free to explore my repositories for more of my projects!
+## 📌 Featured Projects
 
-## 📝 Blogs & Tutorials
+### 🏠 Home Tenant Management App (Android)
+- Property & tenant management system  
+- Built with Kotlin, Jetpack Compose, Room, Firebase  
+- 📱 Published on Google Play  
 
-- 🌍 **My Blog**: Sharing knowledge on tech topics. [Visit here](https://pnrt.github.io/port/work.html)
-- 🎥 **YouTube**: Check out my tutorials on Android development. [Watch now](https://youtube-link.com)
-<!--
-## 📈 GitHub Stats
+👉 Repo: https://github.com/pnrt/home-tenant-app  
+👉 Play Store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.home2
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs)
---->
-## 📬 Connect with Me
+---
 
-- 📧 Email: [pankaj.enggr@gmail.com](mailto:pankaj.enggr@gmail.com)
-- 🌐 Website: [👆click](https://pnrt.github.io/port/)
+### 📆 Social Media Scheduler (Qt C++)
+- Desktop app to schedule posts automatically  
+- Built with Qt C++, REST APIs, scheduling engine  
 
-Let's build something amazing together! 💡
+👉 Repo: https://github.com/pnrt/social-media-scheduler  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj-kumar-rout)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pnxrtx)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pnrt)
-[![GitHubX](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pnrtx)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pnxrtx)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+---
 
+### ⚡ IoT Monitoring System (ESP32 / RP2040)
+- Sensor-based monitoring with MQTT and dashboard  
+- Embedded firmware + Android companion app  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pnrt&layout=compact&theme=radical)
+👉 Repo: https://github.com/pnrt/iot-monitoring  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pnrt&theme=radical)
+---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pnrt&theme=react-dark)
+## 📫 Contact Me
+- Email: pankajer.desk@gmail.com  
+- LinkedIn: https://linkedin.com/in/pankaj-rout  
+- GitHub: https://github.com/pnrt  
+- Instagram: https://instagram.com/ipankajrout
+- X: https://x.com/ipankajrout
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=pnrt)](https://github.com/LordDashMe/github-contribution-stats/)
+---
+
+⭐ If you like my work, consider starring the repositories!

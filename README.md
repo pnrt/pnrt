@@ -14,7 +14,7 @@ I have published production apps on Google Play and developed IoT and automation
 **Mobile:** Android, Jetpack Compose, Room, Firebase  
 **Desktop:** Qt C++  
 **Backend:** Spring Boot, REST APIs, PostgreSQL  
-**Tools:** Git, Linux, CI/CD, Docker (basic)
+**Tools:** Git, Linux, CI/CD, Docker
 
 ---
 

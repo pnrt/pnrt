@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pankaj Kumar Rout
 
-🚀 Software Engineer | Embedded Systems | Android Developer | C/C++ | Kotlin | STM32 | ESP32 | RP2040  
+🚀 Software Engineer | Embedded Systems | Android Developer | C/C++ | Python | Kotlin | STM32 | ESP32 | RP2040  
 
 I build real-world software and hardware systems including Android apps, embedded firmware, and Qt desktop applications.  
 I have published production apps on Google Play and developed IoT and automation projects.

@@ -25,8 +25,16 @@ I have published production apps on Google Play and developed IoT and automation
 - Built with Kotlin, Jetpack Compose, Room, Firebase  
 - 📱 Published on Google Play  
 
-👉 Repo: https://github.com/pnrt/home-tenant-app  
+👉 Repo: https://github.com/pnrt/home-2 (🔒private)
 👉 Play Store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.home2
+
+<p align="center">
+  <img src="https://pnrt.github.io/home-2-public-assets/screen_10_8.png" width="150">
+  <img src="https://pnrt.github.io/home-2-public-assets/screen_20.png" width="150">
+  <img src="https://pnrt.github.io/home-2-public-assets/screen_30.png" width="150">
+  <img src="https://pnrt.github.io/home-2-public-assets/screen_40.png" width="150">
+  <img src="https://pnrt.github.io/home-2-public-assets/screen_50.png" width="150">
+</p>
 
 ---
 
@@ -34,7 +42,7 @@ I have published production apps on Google Play and developed IoT and automation
 - Desktop app to schedule posts automatically  
 - Built with Qt C++, REST APIs, scheduling engine  
 
-👉 Repo: https://github.com/pnrt/social-media-scheduler  
+👉 Repo: https://github.com/pnrt/social-media-scheduler (Soon)
 
 ---
 

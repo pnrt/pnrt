@@ -51,7 +51,18 @@ I have published production apps on Google Play and developed IoT and automation
 - Sensor-based monitoring with MQTT and dashboard  
 - Embedded firmware + Android companion app  
 
-👉 Repo: https://github.com/pnrt/iot-monitoring  
+👉 MCU code comming soon!
+
+👉 Android Repo: https://github.com/pnrt/home-iot (🔒private)
+
+👉 Play store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.homeiot
+
+<p align="center">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_1_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_2_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_3_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_4_01.png" width="150">
+</p>
 
 ---
 

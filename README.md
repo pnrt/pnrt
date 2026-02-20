@@ -26,6 +26,7 @@ I have published production apps on Google Play and developed IoT and automation
 - 📱 Published on Google Play  
 
 👉 Repo: https://github.com/pnrt/home-2 (🔒private)
+
 👉 Play Store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.home2
 
 <p align="center">

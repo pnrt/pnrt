@@ -29,7 +29,7 @@ I have published production apps on Google Play and developed IoT and automation
 
 👉 Play Store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.home2
 
-<p align="center">
+<p align="left">
   <img src="https://pnrt.github.io/home-2-public-assets/screen_10_8.png" width="150">
   <img src="https://pnrt.github.io/home-2-public-assets/screen_20.png" width="150">
   <img src="https://pnrt.github.io/home-2-public-assets/screen_30.png" width="150">
@@ -57,7 +57,7 @@ I have published production apps on Google Play and developed IoT and automation
 
 👉 Play store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.homeiot
 
-<p align="center">
+<p align="left">
   <img src="https://pnrt.github.io/home-iot-privacy/screen_1_01.png" width="150">
   <img src="https://pnrt.github.io/home-iot-privacy/screen_2_01.png" width="150">
   <img src="https://pnrt.github.io/home-iot-privacy/screen_3_01.png" width="150">

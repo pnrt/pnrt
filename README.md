@@ -52,7 +52,7 @@ I have published production apps on Google Play and developed IoT and automation
 - Embedded firmware + Android companion app  
 
 👉 MCU:
-  - ESP32: https://github.com/pnrt/esp32-home-iot/tree/main
+  - ESP32: https://github.com/pnrt/esp32-home-iot
 
 👉 Android Repo: https://github.com/pnrt/home-iot (🔒private)
 

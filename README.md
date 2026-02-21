@@ -51,7 +51,8 @@ I have published production apps on Google Play and developed IoT and automation
 - Sensor-based monitoring with MQTT and dashboard  
 - Embedded firmware + Android companion app  
 
-👉 MCU code comming soon!
+👉 MCU:
+  - ESP32: https://github.com/pnrt/esp32-home-iot/tree/main
 
 👉 Android Repo: https://github.com/pnrt/home-iot (🔒private)
 

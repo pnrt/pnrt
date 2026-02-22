@@ -16,7 +16,9 @@ I have published production apps on Google Play and developed IoT and automation
 **Backend:** Spring Boot, REST APIs, PostgreSQL  
 **Tools:** Git, Linux, CI/CD, Docker
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pnrt&layout=compact&theme=radical&v=1)](https://github.com/pnrt)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,kotlin,java,py,postgres&theme=dark)](https://skillicons.dev)
+[![Mobile & Desktop](https://skillicons.dev/icons?i=androidstudio,qt,firebase&theme=dark)](https://skillicons.dev)
+[![Backend & DevOps](https://skillicons.dev/icons?i=spring,docker,git,linux&theme=dark)](https://skillicons.dev)
 
 ---
 

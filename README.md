@@ -16,6 +16,8 @@ I have published production apps on Google Play and developed IoT and automation
 **Backend:** Spring Boot, REST APIs, PostgreSQL  
 **Tools:** Git, Linux, CI/CD, Docker
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pnrt&layout=compact&theme=radical&v=1)](https://github.com/pnrt)
+
 ---
 
 ## 📌 Featured Projects

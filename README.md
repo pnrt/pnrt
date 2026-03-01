@@ -47,7 +47,7 @@ I have published production apps on Google Play and developed IoT and automation
 - Desktop app to schedule posts automatically  
 - Built with Qt C++, REST APIs, scheduling engine  
 
-👉 Repo: https://github.com/pnrt/social-media-scheduler (Soon)
+👉 Repo: https://github.com/pnrt/social-scheduler-cpp (Soon)
 
 ---
 

@@ -78,7 +78,7 @@ I have published production apps on Google Play and developed IoT and automation
 ---
 
 ## 📫 Contact Me
-- Email: pankajer.desk@gmail.com  
+- Email: pankajrout.in@gmail.com  
 - LinkedIn: https://linkedin.com/in/pankaj-rout  
 - GitHub: https://github.com/pnrt  
 - Instagram: https://instagram.com/ipankajrout

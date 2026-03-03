@@ -75,6 +75,8 @@ I have published production apps on Google Play and developed IoT and automation
   <img src="https://pnrt.github.io/home-iot-privacy/screen_4_01.png" width="150">
 </p>
 
+#### 🎛️ RP2040-Zero Dynamic Macropad: https://github.com/pnrt/RP2040-Zero-Dynamic-Macropad
+
 ---
 
 ## 📫 Contact Me

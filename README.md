@@ -5,6 +5,7 @@
 I build real-world software and hardware systems including Android apps, embedded firmware, and Qt desktop applications.  
 I have published production apps on Google Play and developed IoT and automation projects.
 
+#### 👉 Play Store: https://play.google.com/store/apps/dev?id=7281127899457246236
 ---
 
 ## 🔧 Tech Stack

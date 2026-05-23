@@ -25,6 +25,28 @@ I have published production apps on Google Play and developed IoT and automation
 
 ## 📌 Featured Projects
 
+### ⚡ IoT Monitoring System (ESP32 / RP2040)
+- Sensor-based monitoring with MQTT and dashboard  
+- Embedded firmware + Android companion app  
+
+👉 MCU:
+  - ESP32: https://github.com/pnrt/esp32-home-iot
+
+👉 Android Repo: https://github.com/pnrt/home-iot (🔒private)
+
+👉 Play store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.homeiot
+
+<p align="left">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_1_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_2_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_3_01.png" width="150">
+  <img src="https://pnrt.github.io/home-iot-privacy/screen_4_01.png" width="150">
+</p>
+
+#### 🎛️ RP2040-Zero Dynamic Macropad: https://github.com/pnrt/RP2040-Zero-Dynamic-Macropad
+
+---
+
 ### 🏠 Home Tenant Management App (Android)
 - Property & tenant management system  
 - Built with Kotlin, Jetpack Compose, Room, Firebase  
@@ -55,28 +77,6 @@ I have published production apps on Google Play and developed IoT and automation
   <img src="https://github.com/pnrt/social-scheduler-cpp/blob/main/screenshots/compose_screen.png" width=33%>
   <img src="https://github.com/pnrt/social-scheduler-cpp/blob/main/screenshots/about_screen.png" width=33%>
 </p>
-
----
-
-### ⚡ IoT Monitoring System (ESP32 / RP2040)
-- Sensor-based monitoring with MQTT and dashboard  
-- Embedded firmware + Android companion app  
-
-👉 MCU:
-  - ESP32: https://github.com/pnrt/esp32-home-iot
-
-👉 Android Repo: https://github.com/pnrt/home-iot (🔒private)
-
-👉 Play store: https://play.google.com/store/apps/details?id=com.pankajkumarrout.homeiot
-
-<p align="left">
-  <img src="https://pnrt.github.io/home-iot-privacy/screen_1_01.png" width="150">
-  <img src="https://pnrt.github.io/home-iot-privacy/screen_2_01.png" width="150">
-  <img src="https://pnrt.github.io/home-iot-privacy/screen_3_01.png" width="150">
-  <img src="https://pnrt.github.io/home-iot-privacy/screen_4_01.png" width="150">
-</p>
-
-#### 🎛️ RP2040-Zero Dynamic Macropad: https://github.com/pnrt/RP2040-Zero-Dynamic-Macropad
 
 ---
 

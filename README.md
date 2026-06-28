@@ -27,6 +27,10 @@ I have published production apps on Google Play and developed IoT and automation
 [![Backend & DevOps](https://skillicons.dev/icons?i=spring,docker,git,linux&theme=dark)](https://skillicons.dev)
 
 ---
+<p align="left">
+  <img src="https://pnrt.github.io/pankaj-rout-public-assets/drawing_01.jpg" width="500">
+  <img src="https://pnrt.github.io/pankaj-rout-public-assets/drawing_02.jpg" width="500">
+</p>
 
 ## 📌 Featured Projects
 
